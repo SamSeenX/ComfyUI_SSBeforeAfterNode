@@ -7,11 +7,11 @@ license = "LICENSE"
 dependencies = ["torch", "numpy", "Pillow", "opencv-python", "imageio"]
 
 [project.urls]
-Repository = "https://github.com/MrSamSeen/ComfyUI_SSBeforeAfterNode"
+Repository = "https://github.com/SamSeenX/ComfyUI_SSBeforeAfterNode"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
 PublisherId = "samseen"
 DisplayName = "ComfyUI_SSBeforeAfterNode"
-Icon = "https://raw.githubusercontent.com/MrSamSeen/ComfyUI_SSBeforeAfterNode/refs/heads/main/logo.png"
+Icon = "https://raw.githubusercontent.com/SamSeenX/ComfyUI_SSBeforeAfterNode/refs/heads/main/logo.png"
 Tags = ["img2vid", "animate", "depth-map", "image to video", "video", "image-sequence", "depth-anything"]

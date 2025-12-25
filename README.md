@@ -1,4 +1,4 @@
-[![SamSeen Logo](https://img.shields.io/badge/ComfyUI_SS_Before_After_Transition-by_SamSeen_Solutions-orange?style=for-the-badge)](https://github.com/MrSamSeen)
+[![SamSeen Logo](https://img.shields.io/badge/ComfyUI_SS_Before_After_Transition-by_SamSeen_Solutions-orange?style=for-the-badge)](https://github.com/SamSeenX)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 # ComfyUI SS Before After Node
